@@ -108,3 +108,8 @@ catch (OverflowException)
 {
     Console.WriteLine("For each digits i made a name!");
 }
+finally
+{
+    Console.WriteLine("Done!");
+}
+Console.Write("");
